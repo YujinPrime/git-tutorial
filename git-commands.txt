@@ -5,3 +5,5 @@ git add <file_name>		додавання файлу в staged area, тобто і
 //comment from another developer
 
 git checkout -b "branch-name"	створення нової гілки від поточної та переключення на неї
+
+from feature branch b
